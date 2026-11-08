@@ -11,3 +11,9 @@ Create interactive dashboards using Power BI.
 Analyze student academic performance and dropout patterns.
 
 
+Source: Kaggle
+
+Dataset URL:
+https://www.kaggle.com/datasets/razanihababdellatif/student-retention-and-academic-performance-data
+
+
